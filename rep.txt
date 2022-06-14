@@ -1,2 +1,3 @@
 parties du site qui ne sont pas optimisées pour le SEO:
 1-les balise title, meta description ne sont pas renseignées (ne sont pas optimisées)
+2-text en format image au lieu text, non reponsive
